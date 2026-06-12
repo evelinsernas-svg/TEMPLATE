@@ -13,11 +13,8 @@ project:
     - file: intro.md
     - title: Introducción
       children: 
-      - file: Cap1/Objetivo.md
-      - file: cap1/1_1_objetivo.md
-      - file: cap1/1_2_exitoso.md
-      - file: cap1/1_3_cc.md
-      - file: cap1/1_4_metricas.md
+      - file: cap1/objetivo.md
+     
       
     
 
