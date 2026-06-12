@@ -1,8 +1,8 @@
 # Métricas de éxito 
 
-[Define cómo medirás el éxito de este proceso. Adapta las métricas a tus propios objetivos.]
+**[Define cómo medirás el éxito de este proceso. Adapta las métricas a tus propios objetivos.]**
 
-*Ejemplo:*
+**EJEMPLO:**
 
 Nuestros indicadores clave de rendimiento son los siguientes:
 

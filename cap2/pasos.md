@@ -1,6 +1,8 @@
 # Pasos del proceso
 
-*Ejemplo*
+**[Describe el proceso detalladamente paso a paso]**
+
+**EJEMPLO:**
 
 A continuación, se detalla la secuencia exacta de ejecución. Sigue cada paso en orden para garantizar la entrega de valor esperada y mantener la estandarización.
 

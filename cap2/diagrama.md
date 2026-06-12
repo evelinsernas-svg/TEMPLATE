@@ -1,10 +1,11 @@
 # Diagrama de flujo 
 
-[Agrega un diagrama de flujo para tener una guía visual del proceso]
+**[Agrega un diagrama de flujo para tener una guía visual del proceso]**
 
-*Ejemplo*
+**EJEMPLO:**
 
-graph TD
+```{mermaid}
+flowchart TD
     %% Nodos iniciales y Paso 1
     Start([Inicio del Proceso]) --> P1[Paso 1: Preparación y Prework]
     
@@ -41,3 +42,4 @@ graph TD
     %% Estilos (Opcional para mejorar la presentación en Jupyter Book)
     classDef fase fill:#f9f9f9,stroke:#333,stroke-width:2px;
     class P1,P2,P3,P4,P5 fase;
+     ```
