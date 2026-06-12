@@ -14,9 +14,12 @@ project:
     - title: Introducción
       children: 
       - file: cap1/objetivo.md
+      - file: cap1/kpis.md
      
-      
-    
+    - title: Ejecución
+      children: 
+      - file: cap2/
+      - file: cap2/
 
    
    

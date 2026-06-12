@@ -6,3 +6,16 @@
 [Añade una nota clave sobre la mentalidad o filosofía que el equipo debe recordar. Ej: Este proceso no se trata solo de configurar una herramienta, sino de acelerar el momento en que el usuario percibe valor real.]
 :::
 
+*Ejemplo*
+
+Para lograr el éxito, este proceso debe responder a las siguientes prioridades:
+1. Estandarizar la comunicación con el cliente.
+2. Reducir los tiempos de configuración.
+   1. Automatizando tareas repetitivas.
+   2. Delegando aprobaciones de segundo nivel.
+3. Asegurar la calidad en cada entrega.
+
+:::{note}
+El éxito de este proceso no se mide por la cantidad de tareas completadas, sino por el valor generado al final del ciclo.
+:::
+
