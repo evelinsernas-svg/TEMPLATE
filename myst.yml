@@ -11,9 +11,9 @@ project:
     
   toc:
     - file: intro.md
-    - title: Básicos de Onboarding
+    - title: Introducción
       children: 
-      - file: cap1/test.md
+      - file: Cap1/Objetivo.md
       - file: cap1/1_1_objetivo.md
       - file: cap1/1_2_exitoso.md
       - file: cap1/1_3_cc.md
